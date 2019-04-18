@@ -1,1 +1,3 @@
 # mySlackBotSample
+
+made by typescript
